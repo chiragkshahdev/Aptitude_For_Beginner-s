@@ -1,5 +1,5 @@
 # 🚀 100 Days Aptitude Mastery - Beginner to Placement Ready
-### By Chirag K Shah | FYBSc IT
+### By Chirag K Shah | FYBSC.IT - Code of Conduct From Mumbai University.
 
 <p align="center">
   <img src="https://img.shields.io/badge/100_Days-Challenge-FF6B00?style=for-the-badge" />
